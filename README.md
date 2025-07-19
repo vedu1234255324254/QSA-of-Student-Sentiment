@@ -10,7 +10,7 @@ This initiative holds a special significance for me, as it directly stems from m
 
 This repository houses the essential components I used to engineer these strategic insights:
 
-  * **`OUP_Data_Analysis_and_Visualization.ipynb`**: 🧠 This Jupyter Notebook is where the core analytical horsepower resides. From data ingestion and cleaning to advanced visualization, it's a comprehensive walkthrough of the entire insights generation pipeline. Consider it my strategic blueprint. 📈
+  * `OUP_Data_Analysis_and_Visualization.ipynb`**: 🧠 This Jupyter Notebook is where the core analytical horsepower resides. From data ingestion and cleaning to advanced visualization, it's a comprehensive walkthrough of the entire insights generation pipeline. Consider it my strategic blueprint. 📈
   * **** & **`OUP_Dataset_Generated (1).csv`**: 💾 These CSV files contain the synthesized customer feedback data. While generated, this dataset was meticulously crafted to reflect the types of feedback and common scenarios I observed during my OUP internship, ensuring a high degree of real-world applicability. They're my foundational data assets. 😉
   * `OUP_Visualizations.png`** & **`QSA_Visualizations.png`**: 🎨 Visualizing data isn't just art; it's about making complex insights immediately digestible. These PNGs showcase key findings through compelling charts and graphs, designed to facilitate quick comprehension and strategic alignment. ✨
 
