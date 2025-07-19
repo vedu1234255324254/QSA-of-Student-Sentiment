@@ -1,0 +1,121 @@
+excerpt_id,excerpt,source,category,sentiment,sentiment_score,product_type,digital_feature,student_level,date,platform_rating,verification_status,year_month
+OUP_001,Oxford Educate app keeps crashing when I try to download engineering textbooks for offline study,Reddit,Technical Issues,Negative,1,Engineering,Mobile App,Undergraduate,2024-03-15,N/A,Verified,2024-03
+OUP_004,All chapters are not showing up in application,Google Play Store,Technical Issues,Negative,1,Engineering,Mobile App,Undergraduate,2024-04-05,1,Verified,2024-04
+OUP_009,Download issue: All lessons are not able to see and download in app,App Store,Technical Issues,Negative,1,Engineering,Mobile App,Undergraduate,2024-04-12,1,Verified,2024-04
+OUP_010,Oxford Educate app has ISBN issues. No option to add new ISBN number,Google Play Store,Technical Issues,Negative,1,General,Mobile App,Undergraduate,2024-03-08,1,Verified,2024-03
+OUP_002,The Oxford math textbook is just full of typos and errors,Reddit,Content Quality,Negative,2,Engineering,E-book,Graduate,2024-01-22,N/A,Verified,2024-01
+OUP_003,Oxford Student Atlas has excellent maps and comprehensive coverage,Amazon India,Content Quality,Positive,5,General,Digital Atlas,Competitive Exam,2024-02-10,5,Verified,2024-02
+OUP_006,Railway Engineering Second Edition by Chandra is best book for Railway Engineering,Amazon India,Content Quality,Positive,5,Engineering,E-book,Professional,2024-02-28,5,Verified,2024-02
+OUP_008,Mother of all engineering math books. The depth of the book is obvious from chapters covered,Goodreads,Content Quality,Positive,5,Engineering,E-book,Graduate,2024-02-15,5,Verified,2024-02
+OUP_005,Customer support is abysmal. 7 days for a reply to my request for support,Trustpilot,Customer Service,Negative,1,General,Support System,Graduate,2024-03-20,1,Verified,2024-03
+OUP_017,Have now dealt with three different staff all asked the same questions without reading prior emails,Trustpilot,Customer Service,Negative,1,General,Support System,Professional,2024-02-12,1,Verified,2024-02
+OUP_014,£400 for a PDF. If you miss a payment they chase you for the course fee in full,Trustpilot,Pricing,Negative,1,Business Management,Digital Course,Professional,2024-02-20,1,Verified,2024-02
+OUP_019,The course material you are given is the entirety of what you get for £400,Trustpilot,Pricing,Negative,1,Business Management,Digital Course,Professional,2024-02-25,1,Verified,2024-02
+OUP_018,"Oxford Educate seamlessly integrates eBooks with videos, audio, images, and interactivities",Educational Forum,Digital Features,Positive,4,General,Learning Platform,Teacher,2024-03-18,N/A,Verified,2024-03
+OUP_012,Don't waste ur time,Goodreads,Overall Experience,Negative,1,Engineering,E-book,Graduate,2024-02-05,1,Verified,2024-02
+OUP_020,This is the worst online service I have ever encountered and the OUP is completely useless,Trustpilot,Overall Experience,Negative,1,General,Online Service,Professional,2024-03-22,1,Verified,2024-03
+OUP_016,"Excellent general content, very comprehensive",Trustpilot,Content Quality,Positive,4,General,Digital Atlas,Competitive Exam,2020-05-01,5,Verified,2020-05
+OUP_017,App crashes constantly on my business management studies,Google Play Store,Technical Issues,Negative,1,Business Management,Learning Platform,High School,2024-08-12,1,Verified,2024-08
+OUP_018,Mixed experience with engineering materials,App Store,Overall Experience,Positive,4,Engineering,Support System,Teacher,2023-03-30,5,Verified,2023-03
+OUP_019,Support team is completely unhelpful and slow,Trustpilot,Customer Service,Negative,1,Engineering,Digital Atlas,MBA,2021-04-19,1,Verified,2021-04
+OUP_020,"Excellent engineering content, very comprehensive",App Store,Content Quality,Positive,4,Engineering,Digital Atlas,MBA,2022-08-15,5,Verified,2022-08
+OUP_021,"Excellent engineering content, very comprehensive",App Store,Content Quality,Positive,4,Engineering,E-book,Undergraduate,2022-04-20,5,Verified,2022-04
+OUP_022,Mixed experience with general materials,App Store,Overall Experience,Negative,1,General,E-book,Teacher,2021-07-18,1,Verified,2021-07
+OUP_023,Support team is completely unhelpful and slow,Educational Forum,Customer Service,Negative,1,Engineering,Digital Atlas,MBA,2021-05-23,1,Verified,2021-05
+OUP_024,Interactive features are well designed and engaging,App Store,Digital Features,Positive,5,General,E-book,Graduate,2021-07-19,5,Verified,2021-07
+OUP_025,Support team is completely unhelpful and slow,Trustpilot,Customer Service,Negative,1,General,E-book,Competitive Exam,2024-04-28,1,Verified,2024-04
+OUP_026,"Excellent general content, very comprehensive",App Store,Content Quality,Positive,5,General,Support System,Teacher,2024-10-16,5,Verified,2024-10
+OUP_027,App crashes constantly on my engineering studies,Trustpilot,Technical Issues,Negative,1,Engineering,Mobile App,High School,2025-04-29,1,Verified,2025-04
+OUP_028,Mixed experience with engineering materials,App Store,Content Quality,Negative,1,Engineering,Mobile App,High School,2025-02-23,1,Verified,2025-02
+OUP_029,Too expensive for general digital resources,App Store,Pricing,Negative,1,General,Digital Atlas,Competitive Exam,2024-08-25,1,Verified,2024-08
+OUP_030,Too expensive for engineering digital resources,Trustpilot,Pricing,Negative,1,Engineering,Mobile App,Graduate,2020-05-14,1,Verified,2020-05
+OUP_031,Support team is completely unhelpful and slow,Amazon India,Customer Service,Negative,1,Engineering,Learning Platform,Undergraduate,2021-02-10,1,Verified,2021-02
+OUP_032,Too expensive for business management digital resources,Goodreads,Pricing,Negative,1,Business Management,Digital Atlas,Professional,2024-01-25,1,Verified,2024-01
+OUP_033,Too expensive for general digital resources,Amazon India,Pricing,Negative,1,General,E-book,Competitive Exam,2021-01-27,1,Verified,2021-01
+OUP_034,App crashes constantly on my engineering studies,Trustpilot,Technical Issues,Negative,1,Engineering,Learning Platform,Professional,2021-07-17,1,Verified,2021-07
+OUP_035,"Excellent engineering content, very comprehensive",Goodreads,Content Quality,Positive,4,Engineering,Support System,High School,2021-06-24,5,Verified,2021-06
+OUP_036,Mixed experience with general materials,Educational Forum,Overall Experience,Negative,1,General,Learning Platform,Professional,2021-11-12,1,Verified,2021-11
+OUP_037,"Excellent business management content, very comprehensive",Trustpilot,Content Quality,Positive,5,Business Management,Digital Atlas,Teacher,2024-12-26,5,Verified,2024-12
+OUP_038,Mixed experience with engineering materials,Educational Forum,Content Quality,Negative,1,Engineering,Digital Atlas,MBA,2023-11-01,1,Verified,2023-11
+OUP_039,"Excellent general content, very comprehensive",App Store,Content Quality,Positive,5,General,Mobile App,High School,2023-12-05,5,Verified,2023-12
+OUP_040,"Excellent engineering content, very comprehensive",Reddit,Content Quality,Positive,4,Engineering,Mobile App,Professional,2023-10-29,N/A,Verified,2023-10
+OUP_041,"Excellent engineering content, very comprehensive",Goodreads,Content Quality,Positive,4,Engineering,Digital Atlas,Undergraduate,2023-11-10,5,Verified,2023-11
+OUP_042,Mixed experience with engineering materials,Reddit,Content Quality,Negative,2,Engineering,Learning Platform,Undergraduate,2024-05-08,1,Verified,2024-05
+OUP_043,"Excellent general content, very comprehensive",Reddit,Content Quality,Positive,5,General,Support System,Professional,2024-08-22,N/A,Verified,2024-08
+OUP_044,App crashes constantly on my general studies,Google Play Store,Technical Issues,Negative,1,General,E-book,Undergraduate,2022-06-02,1,Verified,2022-06
+OUP_045,Support team is completely unhelpful and slow,Google Play Store,Customer Service,Negative,1,Engineering,Mobile App,Competitive Exam,2021-08-31,1,Verified,2021-08
+OUP_046,"Excellent general content, very comprehensive",Goodreads,Content Quality,Positive,5,General,E-book,High School,2021-02-06,5,Verified,2021-02
+OUP_047,"Excellent general content, very comprehensive",Google Play Store,Content Quality,Positive,4,General,E-book,MBA,2024-07-21,5,Verified,2024-07
+OUP_048,Interactive features are well designed and engaging,Google Play Store,Digital Features,Positive,4,General,Digital Atlas,MBA,2023-08-14,5,Verified,2023-08
+OUP_049,App crashes constantly on my business management studies,Amazon India,Technical Issues,Negative,1,Business Management,Support System,Undergraduate,2022-06-15,1,Verified,2022-06
+OUP_050,Support team is completely unhelpful and slow,Google Play Store,Customer Service,Negative,1,Engineering,Digital Atlas,Competitive Exam,2023-01-27,1,Verified,2023-01
+OUP_051,Too expensive for general digital resources,Google Play Store,Pricing,Negative,1,General,Support System,MBA,2025-04-27,1,Verified,2025-04
+OUP_052,App crashes constantly on my general studies,App Store,Technical Issues,Negative,1,General,Mobile App,Teacher,2023-02-09,1,Verified,2023-02
+OUP_053,Support team is completely unhelpful and slow,Trustpilot,Customer Service,Negative,1,Engineering,E-book,Graduate,2020-12-03,1,Verified,2020-12
+OUP_054,Too expensive for engineering digital resources,Trustpilot,Pricing,Negative,1,Engineering,Learning Platform,Undergraduate,2021-02-01,1,Verified,2021-02
+OUP_055,App crashes constantly on my general studies,Educational Forum,Technical Issues,Negative,1,General,Digital Atlas,Professional,2021-04-04,1,Verified,2021-04
+OUP_056,Mixed experience with engineering materials,Educational Forum,Content Quality,Negative,1,Engineering,Digital Atlas,Teacher,2021-07-16,1,Verified,2021-07
+OUP_057,"Excellent general content, very comprehensive",Trustpilot,Content Quality,Positive,4,General,Support System,Teacher,2021-03-28,5,Verified,2021-03
+OUP_058,Too expensive for engineering digital resources,Google Play Store,Pricing,Negative,1,Engineering,Support System,MBA,2020-01-17,1,Verified,2020-01
+OUP_059,Mixed experience with general materials,Trustpilot,Overall Experience,Negative,1,General,Learning Platform,Teacher,2024-11-03,1,Verified,2024-11
+OUP_060,Mixed experience with general materials,Reddit,Overall Experience,Negative,1,General,Support System,Teacher,2022-09-19,1,Verified,2022-09
+OUP_061,"Excellent engineering content, very comprehensive",Trustpilot,Content Quality,Positive,5,Engineering,E-book,Competitive Exam,2024-12-21,5,Verified,2024-12
+OUP_062,Mixed experience with business management materials,Amazon India,Overall Experience,Positive,5,Business Management,E-book,Professional,2022-05-03,5,Verified,2022-05
+OUP_063,Mixed experience with engineering materials,Amazon India,Content Quality,Negative,1,Engineering,Learning Platform,Graduate,2025-01-08,1,Verified,2025-01
+OUP_064,"Excellent engineering content, very comprehensive",Amazon India,Content Quality,Positive,5,Engineering,Mobile App,Professional,2024-03-09,5,Verified,2024-03
+OUP_065,Support team is completely unhelpful and slow,App Store,Customer Service,Negative,1,Engineering,Support System,Undergraduate,2021-02-03,1,Verified,2021-02
+OUP_066,Interactive features are well designed and engaging,Educational Forum,Digital Features,Positive,4,Business Management,Digital Atlas,MBA,2022-05-03,N/A,Verified,2022-05
+OUP_067,"Excellent engineering content, very comprehensive",Educational Forum,Content Quality,Positive,5,Engineering,Support System,Teacher,2020-10-31,N/A,Verified,2020-10
+OUP_068,App crashes constantly on my business management studies,Educational Forum,Technical Issues,Negative,1,Business Management,Learning Platform,Teacher,2020-09-20,1,Verified,2020-09
+OUP_069,Mixed experience with business management materials,App Store,Content Quality,Negative,2,Business Management,Digital Atlas,High School,2022-06-02,1,Verified,2022-06
+OUP_070,Support team is completely unhelpful and slow,App Store,Customer Service,Negative,1,General,Digital Atlas,High School,2023-02-03,1,Verified,2023-02
+OUP_071,Too expensive for business management digital resources,Educational Forum,Pricing,Negative,1,Business Management,E-book,Professional,2022-01-10,1,Verified,2022-01
+OUP_072,Mixed experience with general materials,Educational Forum,Overall Experience,Negative,1,General,E-book,Competitive Exam,2022-12-17,1,Verified,2022-12
+OUP_073,App crashes constantly on my engineering studies,Amazon India,Technical Issues,Negative,1,Engineering,Learning Platform,Teacher,2023-06-14,1,Verified,2023-06
+OUP_074,Support team is completely unhelpful and slow,Trustpilot,Customer Service,Negative,1,General,Learning Platform,Competitive Exam,2021-08-03,1,Verified,2021-08
+OUP_075,Mixed experience with engineering materials,App Store,Content Quality,Negative,1,Engineering,Support System,Graduate,2023-08-01,1,Verified,2023-08
+OUP_076,App crashes constantly on my general studies,Reddit,Technical Issues,Negative,1,General,E-book,Teacher,2023-05-12,1,Verified,2023-05
+OUP_077,Too expensive for engineering digital resources,Trustpilot,Pricing,Negative,1,Engineering,E-book,Competitive Exam,2020-12-22,1,Verified,2020-12
+OUP_078,Support team is completely unhelpful and slow,Trustpilot,Customer Service,Negative,1,Engineering,E-book,MBA,2023-05-31,1,Verified,2023-05
+OUP_079,Support team is completely unhelpful and slow,Amazon India,Customer Service,Negative,1,Business Management,E-book,Undergraduate,2021-05-30,1,Verified,2021-05
+OUP_080,App crashes constantly on my business management studies,Google Play Store,Technical Issues,Negative,1,Business Management,Mobile App,MBA,2021-01-14,1,Verified,2021-01
+OUP_081,"Excellent general content, very comprehensive",Google Play Store,Content Quality,Positive,4,General,E-book,Professional,2023-04-06,5,Verified,2023-04
+OUP_082,App crashes constantly on my engineering studies,Trustpilot,Technical Issues,Negative,1,Engineering,Digital Atlas,High School,2023-06-30,1,Verified,2023-06
+OUP_083,Support team is completely unhelpful and slow,Educational Forum,Customer Service,Negative,1,General,E-book,Undergraduate,2021-08-27,1,Verified,2021-08
+OUP_084,Support team is completely unhelpful and slow,Goodreads,Customer Service,Negative,1,Engineering,Support System,Graduate,2025-04-10,1,Verified,2025-04
+OUP_085,Too expensive for general digital resources,Amazon India,Pricing,Negative,1,General,Learning Platform,High School,2021-12-29,1,Verified,2021-12
+OUP_086,Mixed experience with business management materials,App Store,Overall Experience,Negative,1,Business Management,Mobile App,Graduate,2022-01-08,1,Verified,2022-01
+OUP_087,Too expensive for engineering digital resources,App Store,Pricing,Negative,1,Engineering,Learning Platform,Graduate,2021-10-24,1,Verified,2021-10
+OUP_088,"Excellent general content, very comprehensive",Educational Forum,Content Quality,Positive,5,General,Mobile App,High School,2023-07-20,N/A,Verified,2023-07
+OUP_089,"Excellent engineering content, very comprehensive",Reddit,Content Quality,Positive,5,Engineering,Learning Platform,Teacher,2021-01-30,N/A,Verified,2021-01
+OUP_090,Mixed experience with engineering materials,App Store,Digital Features,Negative,2,Engineering,Digital Atlas,Undergraduate,2024-05-06,1,Verified,2024-05
+OUP_091,"Excellent engineering content, very comprehensive",Trustpilot,Content Quality,Positive,4,Engineering,Support System,High School,2024-02-01,5,Verified,2024-02
+OUP_092,Mixed experience with engineering materials,Reddit,Overall Experience,Negative,1,Engineering,E-book,Competitive Exam,2022-07-23,1,Verified,2022-07
+OUP_093,"Excellent engineering content, very comprehensive",Educational Forum,Content Quality,Positive,5,Engineering,E-book,High School,2022-10-29,N/A,Verified,2022-10
+OUP_094,Interactive features are well designed and engaging,Reddit,Digital Features,Positive,5,General,Mobile App,High School,2020-06-18,N/A,Verified,2020-06
+OUP_095,Interactive features are well designed and engaging,Amazon India,Digital Features,Positive,4,Engineering,Learning Platform,Graduate,2024-07-29,5,Verified,2024-07
+OUP_096,Mixed experience with general materials,App Store,Content Quality,Negative,2,General,Support System,Undergraduate,2025-01-01,1,Verified,2025-01
+OUP_097,App crashes constantly on my business management studies,Trustpilot,Technical Issues,Negative,1,Business Management,Digital Atlas,MBA,2025-02-24,1,Verified,2025-02
+OUP_098,App crashes constantly on my engineering studies,Google Play Store,Technical Issues,Negative,1,Engineering,Support System,High School,2022-12-17,1,Verified,2022-12
+OUP_099,App crashes constantly on my general studies,Trustpilot,Technical Issues,Negative,1,General,Mobile App,Competitive Exam,2020-12-13,1,Verified,2020-12
+OUP_100,"Excellent general content, very comprehensive",Reddit,Content Quality,Positive,5,General,Support System,Undergraduate,2020-02-27,N/A,Verified,2020-02
+OUP_101,Mixed experience with engineering materials,Trustpilot,Overall Experience,Positive,4,Engineering,Support System,High School,2020-07-21,5,Verified,2020-07
+OUP_102,App crashes constantly on my general studies,Google Play Store,Technical Issues,Negative,1,General,Mobile App,Professional,2023-06-10,1,Verified,2023-06
+OUP_103,Too expensive for business management digital resources,Educational Forum,Pricing,Negative,1,Business Management,Mobile App,Undergraduate,2021-10-17,1,Verified,2021-10
+OUP_104,Mixed experience with business management materials,Amazon India,Overall Experience,Negative,1,Business Management,E-book,Teacher,2022-10-28,1,Verified,2022-10
+OUP_105,App crashes constantly on my engineering studies,Amazon India,Technical Issues,Negative,1,Engineering,Mobile App,Graduate,2022-05-18,1,Verified,2022-05
+OUP_106,"Excellent engineering content, very comprehensive",Google Play Store,Content Quality,Positive,4,Engineering,Learning Platform,Teacher,2024-10-13,5,Verified,2024-10
+OUP_107,Support team is completely unhelpful and slow,Trustpilot,Customer Service,Negative,1,General,E-book,High School,2023-06-30,1,Verified,2023-06
+OUP_108,"Excellent general content, very comprehensive",Trustpilot,Content Quality,Positive,5,General,Digital Atlas,Competitive Exam,2023-06-19,5,Verified,2023-06
+OUP_109,App crashes constantly on my general studies,Educational Forum,Technical Issues,Negative,1,General,Mobile App,Undergraduate,2023-06-16,1,Verified,2023-06
+OUP_110,Mixed experience with business management materials,Amazon India,Content Quality,Negative,1,Business Management,Mobile App,Competitive Exam,2024-01-24,1,Verified,2024-01
+OUP_111,"Excellent engineering content, very comprehensive",Google Play Store,Content Quality,Positive,5,Engineering,Mobile App,Competitive Exam,2021-04-20,5,Verified,2021-04
+OUP_112,Support team is completely unhelpful and slow,Trustpilot,Customer Service,Negative,1,General,Learning Platform,Teacher,2022-11-12,1,Verified,2022-11
+OUP_113,Too expensive for business management digital resources,Amazon India,Pricing,Negative,1,Business Management,Mobile App,Graduate,2021-04-01,1,Verified,2021-04
+OUP_114,Mixed experience with engineering materials,Trustpilot,Overall Experience,Negative,1,Engineering,E-book,MBA,2024-12-28,1,Verified,2024-12
+OUP_115,"Excellent business management content, very comprehensive",Educational Forum,Content Quality,Positive,4,Business Management,E-book,Graduate,2025-03-29,N/A,Verified,2025-03
+OUP_116,Mixed experience with business management materials,Goodreads,Digital Features,Negative,1,Business Management,Learning Platform,MBA,2021-02-04,1,Verified,2021-02
+OUP_117,Support team is completely unhelpful and slow,Amazon India,Customer Service,Negative,1,Engineering,Support System,Professional,2023-12-16,1,Verified,2023-12
+OUP_118,Mixed experience with business management materials,Amazon India,Overall Experience,Negative,1,Business Management,E-book,Graduate,2021-03-10,1,Verified,2021-03
+OUP_119,"Excellent general content, very comprehensive",Goodreads,Content Quality,Positive,4,General,Digital Atlas,Undergraduate,2023-02-03,5,Verified,2023-02
+OUP_120,Too expensive for business management digital resources,Trustpilot,Pricing,Negative,1,Business Management,Support System,MBA,2022-02-23,1,Verified,2022-02
