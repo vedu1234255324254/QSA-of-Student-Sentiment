@@ -1,4 +1,4 @@
-# 🚀 OUP Customer Feedback Insights: Driving Product Excellence\! 🎉
+# 📖OUP Customer Feedback Insights: Driving Product Excellence\! 📖
 
 ## Welcome, Strategic Thinkers & Data Enthusiasts\! 👋
 
@@ -51,6 +51,6 @@ These insights are not merely observations; they are catalysts for strategic act
 
 I'm always keen to discuss data strategy, product insights, or potential collaborations.
 
-Connect with me on [LinkedIn](https://www.google.com/search?q=YOUR_LINKEDIN_PROFILE) or explore my other projects on [GitHub](https://www.google.com/search?q=YOUR_GITHUB_PROFILE)\!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/vedanta-b-24768b31a/) 
 
 -----
